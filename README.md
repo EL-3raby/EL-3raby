@@ -68,10 +68,33 @@
 
 ### 🔥 Featured Projects & Technical Expertise
 
-* 📊 **Café Harmony - Marketing Data Analysis:** Conducted an in-depth data analysis project focusing on Return on Ad Spend (ROAS) and marketing trends. Developed predictive models to optimize marketing strategies and ROI.
-* 🔐 **Cryptography & Information Security:** Developed custom algorithms focusing on encryption techniques, including Steganography and the Playfair cipher, demonstrating a deep understanding of data security.
-* 🎨 **NYX Fashion House - Digital Branding & UI:** Successfully delivered end-to-end visual brand identity and UI integration, ensuring a cohesive and engaging user experience from concept to final front-end design.
-* 💻 **Scalable Full-Stack Web Applications:** Designed and deployed professional web solutions for freelance clients, utilizing modern front-end frameworks seamlessly integrated with **Firebase** for secure, real-time data management.
+<br>
+
+**[📊 Café Harmony - Marketing Data Analysis](#)**
+> Conducted an in-depth data analysis project focusing on Return on Ad Spend (ROAS) and marketing trends. Developed predictive models to optimize marketing strategies and ROI.
+> <br>
+> 🛠️ *Tech Stack:* <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" /> <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+
+<br>
+
+**[🔐 Cryptography & Information Security](#)**
+> Developed custom algorithms focusing on encryption techniques, including Steganography and the Playfair cipher, demonstrating a deep understanding of data security.
+> <br>
+> 🛠️ *Tech Stack:* <img src="https://img.shields.io/badge/Algorithms-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="Algorithms" /> <img src="https://img.shields.io/badge/Cybersecurity-000000?style=flat-square&logo=security&logoColor=white" alt="Security" />
+
+<br>
+
+**[🎨 NYX Fashion House - Digital Branding & UI](#)**
+> Successfully delivered end-to-end visual brand identity and UI integration, ensuring a cohesive and engaging user experience from concept to final front-end design.
+> <br>
+> 🛠️ *Tech Stack:* <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" /> <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobe%20illustrator&logoColor=white" alt="Illustrator" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+
+<br>
+
+**[💻 Scalable Full-Stack Web Applications](#)**
+> Designed and deployed professional web solutions for freelance clients, utilizing modern front-end frameworks seamlessly integrated with Firebase for secure, real-time data management.
+> <br>
+> 🛠️ *Tech Stack:* <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
 
 ---
 
