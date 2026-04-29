@@ -16,7 +16,7 @@
 - 💻 **Full-Stack Development:** Architecting and deploying dynamic, responsive websites with seamless backend integration.
 - 📊 **Machine Learning & Data Analysis:** Designing predictive models and analyzing complex datasets to drive business decisions.
 - 🔥 **Database Management:** Structuring scalable and secure architectures using **Firebase** (Firestore, Authentication, Hosting).
-- 🏆 **Continuous Learner:** Always exploring new algorithms, clean architecture, and optimizing code performance.
+- 🔐 **Information Security:** Implementing custom encryption algorithms and exploring advanced cryptography techniques.
 
 ---
 
@@ -37,24 +37,26 @@
 
 ---
 
-### 🔥 Featured Projects
+### 🔥 Featured Projects & Technical Expertise
 
-* **[Web App Name]**: A full-stack website designed for seamless user experience, integrated with **Firebase** for real-time database management and secure user authentication.
-* **[Data Analysis Project Name]**: A machine learning model utilizing Python to process and analyze commercial datasets, providing actionable insights for business growth and ROI optimization.
+* 📊 **Café Harmony - Marketing Data Analysis:** Conducted an in-depth data analysis project focusing on Return on Ad Spend (ROAS) and marketing trends. Developed predictive models to optimize marketing strategies and ROI.
+* 🔐 **Cryptography & Information Security:** Developed custom algorithms focusing on encryption techniques, including Steganography and the Playfair cipher, demonstrating a deep understanding of data security.
+* 🎨 **NYX Fashion House - Digital Branding & UI:** Successfully delivered end-to-end visual brand identity and UI integration, ensuring a cohesive and engaging user experience from concept to final front-end design.
+* 💻 **Scalable Full-Stack Web Applications:** Designed and deployed professional web solutions for freelance clients, utilizing modern front-end frameworks seamlessly integrated with **Firebase** for secure, real-time data management.
 
 ---
 
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Ahmed's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EL-3raby&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Ahmed's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EL-3raby&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/EL-3raby/EL-3raby/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
 </div>
 
 ---
@@ -62,6 +64,6 @@
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME_HERE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:YOUR_EMAIL_HERE@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
